@@ -1,5 +1,5 @@
 # Hi, I’m Z 👋
 
-Mobile developer focused on **Flutter** and **React Native**.
+AI-native full-stack developer.
 
-Building small products, useful tools, and playful experiments.
+Building useful products, systems, and experiments.
