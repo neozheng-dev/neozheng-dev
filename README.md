@@ -1,4 +1,4 @@
-# Hi, I’m Juice 👋
+# Hi, I’m Z 👋
 
 Mobile developer focused on **Flutter** and **React Native**.
 
